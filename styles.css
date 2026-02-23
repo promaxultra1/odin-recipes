@@ -1,0 +1,22 @@
+
+body {
+    background-color: lightpink
+}
+
+h1 {
+    color: #333;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin-top: 20px;
+    background-color: lightblue;
+}
+
+.index-list {
+    background-color: lightcyan;
+    font-size: 20px;
+}
+
+h2 {
+    background-color: white;
+    font-size: 20px;
+}
